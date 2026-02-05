@@ -210,6 +210,42 @@ ul.task-list input[type="checkbox"] {
     }
   }
 
+  // Smaller social icons in header (under name)
+  &.social-header {
+    margin-top: 0.5rem;
+    text-align: left;
+
+    .contact-icons {
+      font-size: 1.25rem;
+
+      a {
+        margin: 0 0.35rem;
+
+        img {
+          width: 1.25rem;
+          height: 1.25rem;
+          margin-bottom: 0;
+        }
+
+        svg {
+          width: 1.25rem;
+          height: 1.25rem;
+          margin-bottom: 0;
+
+          image {
+            width: 1.25rem;
+            height: 1.25rem;
+          }
+        }
+      }
+    }
+
+    .contact-note {
+      font-size: 0.75rem;
+      margin-top: 0.25rem;
+    }
+  }
+
   .contact-note {
     font-size: 0.8rem;
   }
