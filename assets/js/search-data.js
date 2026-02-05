@@ -391,7 +391,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/pachinko/";
-            },},{id: "news-launched-my-personal-website",
+            },},{id: "news-presented-a-poster-on-our-dynamic-irt-work-modeling-student-learning-at-responsible-assessment-in-the-ai-era-hosted-by-stanford-accelerator-for-learning-and-ets-paper",
+          title: 'Presented a poster on our dynamic IRT work modeling student learning at Responsible...',
+          description: "",
+          section: "News",},{id: "news-launched-my-personal-website",
           title: 'Launched my personal website! :)',
           description: "",
           section: "News",},{id: "projects-project-1",
