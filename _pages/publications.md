@@ -13,6 +13,14 @@ nav_order: 1
 
 {% include bib_search.liquid %}
 
+{% if site.data.socials.scholar_userid %}
+<p class="mb-3">
+  <a href="https://scholar.google.com/citations?user={{ site.data.socials.scholar_userid }}" target="_blank" rel="noopener noreferrer">
+    <i class="si si-google-scholar"></i> View my Google Scholar profile
+  </a>
+</p>
+{% endif %}
+
 <div class="publications">
 
 {% bibliography %}
