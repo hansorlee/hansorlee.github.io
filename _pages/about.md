@@ -2,13 +2,13 @@
 layout: about
 title: about
 permalink: /
-# subtitle: <a href='#'>Affiliations</a>. hansol@stanford.edu. 
+# subtitle: <a href='#'>Affiliations</a>. hansol@stanford.edu.
 
 profile:
   align: right
   image: prof_pic.png
   image_circular: true # crops the image to make it circular
-  more_info: 
+  more_info:
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
