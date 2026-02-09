@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-05'
+  last_updated: '2026-02-09'
 papers:
   vmcet8AAAAAJ:2osOgNQ5qMEC:
     citations: 11
@@ -14,23 +14,27 @@ papers:
     title: Is a seat at the table enough? Engaging teachers and students in dataset specification for ml in education
     year: '2024'
   vmcet8AAAAAJ:W7OEmFMy1HYC:
-    citations: 8
+    citations: 9
     title: 'An introduction to the Item Response Warehouse (IRW): A resource for enhancing data usage in psychometrics'
     year: '2025'
   vmcet8AAAAAJ:Y0pCki6q_DkC:
     citations: 0
     title: 'Dynamic Bayesian Item Response Model with Decomposition (D-BIRD): Modeling Cohort and Individual Learning Over Time'
     year: '2025'
+  vmcet8AAAAAJ:YsMSGLbcyi4C:
+    citations: 0
+    title: Does Algorithmic Uncertainty Sway Human Experts? Evidence from a Field Experiment in Selective College Admissions
+    year: '2026'
   vmcet8AAAAAJ:d1gkVwhDpl0C:
     citations: 51
     title: Evaluation of fairness trade-offs in predicting student success
     year: '2020'
   vmcet8AAAAAJ:qjMakFHDy7sC:
-    citations: 19
+    citations: 20
     title: Evaluating a Learned Admission-Prediction Model as a Replacement for Standardized Tests in College Admissions
     year: '2023'
   vmcet8AAAAAJ:u-x6o8ySG0sC:
-    citations: 370
+    citations: 369
     title: Algorithmic Fairness in Education
     year: '2022'
   vmcet8AAAAAJ:u5HHmVD_uO8C:
