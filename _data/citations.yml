@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-02-09'
+  last_updated: '2026-02-13'
 papers:
   vmcet8AAAAAJ:2osOgNQ5qMEC:
     citations: 11
     title: 'Look at me when I talk to you: a video dataset to enable voice assistants to recognize errors'
     year: '2021'
   vmcet8AAAAAJ:9yKSN-GCB0IC:
-    citations: 76
+    citations: 77
     title: My bad! repairing intelligent voice assistant errors improves interaction
     year: '2021'
   vmcet8AAAAAJ:UeHWp8X0CEIC:
@@ -34,7 +34,7 @@ papers:
     title: Evaluating a Learned Admission-Prediction Model as a Replacement for Standardized Tests in College Admissions
     year: '2023'
   vmcet8AAAAAJ:u-x6o8ySG0sC:
-    citations: 369
+    citations: 370
     title: Algorithmic Fairness in Education
     year: '2022'
   vmcet8AAAAAJ:u5HHmVD_uO8C:
