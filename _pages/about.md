@@ -24,9 +24,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I'm a Ph.D. candidate in Education Data Science at Stanford University, advised by Professor [Ben Domingue](https://ed.stanford.edu/faculty/bdomingu). I received my B.A. and M.S. in Computer Science from Cornell University.
+Hello! I'm a Ph.D. candidate in Education Data Science at Stanford University, advised by Professor [Ben Domingue](https://ed.stanford.edu/faculty/bdomingu). I study the gap between what algorithmic systems are designed to do and how they operate in sociotechnical contexts.
 
-My research draws on psychometrics and machine learning to study how we measure learning and human decision-making, how predictive models shape and are shaped by institutional practices, and how to build AI systems that support these processes in responsible ways. I develop tools and methods that make educational data more interpretable, valid, and useful.
+My work spans human-AI decision-making, algorithmic fairness, and measurement. I approach these questions from two sides: (1) the deployment side, examining how algorithmic tools reshape human decision-making in practice; and (2) the measurement side, asking whether the models underlying these systems rest on valid empirical foundations. I use methods spanning machine learning, causal inference, and psychometrics.
+
+Before Stanford, I studied Computer Science at Cornell University, advised by Professors [Rene Kizilcec](https://rene.kizilcec.com/) and [Thorsten Joachims](https://www.cs.cornell.edu/people/tj/). I am a recipient of the [Stanford Graduate Fellowship](https://vpge.stanford.edu/fellowships-funding/sgf) and co-founder of [Learnest](https://www.learnest.org/), a nonprofit to promote responsible AI in education.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
