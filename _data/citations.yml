@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-18'
+  last_updated: '2026-02-23'
 papers:
   vmcet8AAAAAJ:2osOgNQ5qMEC:
     citations: 11
@@ -26,7 +26,7 @@ papers:
     title: Does Algorithmic Uncertainty Sway Human Experts? Evidence from a Field Experiment in Selective College Admissions
     year: '2026'
   vmcet8AAAAAJ:d1gkVwhDpl0C:
-    citations: 51
+    citations: 52
     title: Evaluation of fairness trade-offs in predicting student success
     year: '2020'
   vmcet8AAAAAJ:qjMakFHDy7sC:
@@ -34,7 +34,7 @@ papers:
     title: Evaluating a Learned Admission-Prediction Model as a Replacement for Standardized Tests in College Admissions
     year: '2023'
   vmcet8AAAAAJ:u-x6o8ySG0sC:
-    citations: 375
+    citations: 379
     title: Algorithmic Fairness in Education
     year: '2022'
   vmcet8AAAAAJ:u5HHmVD_uO8C:
