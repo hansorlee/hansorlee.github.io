@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-23'
+  last_updated: '2026-02-25'
 papers:
   vmcet8AAAAAJ:2osOgNQ5qMEC:
     citations: 11
@@ -34,11 +34,11 @@ papers:
     title: Evaluating a Learned Admission-Prediction Model as a Replacement for Standardized Tests in College Admissions
     year: '2023'
   vmcet8AAAAAJ:u-x6o8ySG0sC:
-    citations: 379
+    citations: 380
     title: Algorithmic Fairness in Education
     year: '2022'
   vmcet8AAAAAJ:u5HHmVD_uO8C:
-    citations: 137
+    citations: 138
     title: Should college dropout prediction models include protected attributes?
     year: '2021'
   vmcet8AAAAAJ:zYLM7Y9cAGgC:
