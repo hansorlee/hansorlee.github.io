@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-news",
+          title: "news",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/news/";
+          },
         },{id: "nav-bookshelf",
           title: "bookshelf",
           description: "",
@@ -391,11 +398,26 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/pachinko/";
-            },},{id: "news-presented-a-poster-on-our-dynamic-irt-work-modeling-student-learning-at-responsible-assessment-in-the-ai-era-hosted-by-stanford-accelerator-for-learning-and-ets-paper",
-          title: 'Presented a poster on our dynamic IRT work modeling student learning at Responsible...',
+            },},{id: "news-presented-a-poster-at-responsible-assessment-in-the-ai-era-hosted-by-stanford-accelerator-for-learning-and-ets-paper",
+          title: 'Presented a poster at Responsible Assessment in the AI Era, hosted by Stanford...',
           description: "",
           section: "News",},{id: "news-launched-my-personal-website",
           title: 'Launched my personal website! :)',
+          description: "",
+          section: "News",},{id: "news-five-abstracts-accepted-at-imps-2026-international-meeting-of-the-psychometric-society",
+          title: 'Five abstracts accepted at IMPS 2026 (International Meeting of the Psychometric Society).',
+          description: "",
+          section: "News",},{id: "news-two-papers-accepted-at-acm-learning-scale-2026",
+          title: 'Two papers accepted at ACM Learning @ Scale 2026.',
+          description: "",
+          section: "News",},{id: "news-paper-accepted-at-acm-facct-2026-preprint",
+          title: 'Paper accepted at ACM FAccT 2026 (preprint).',
+          description: "",
+          section: "News",},{id: "news-awarded-a-5-000-dissertation-support-grant-from-stanford-graduate-school-of-education-thank-you-to-gse-for-the-support",
+          title: 'Awarded a $5,000 Dissertation Support Grant from Stanford Graduate School of Education. Thank...',
+          description: "",
+          section: "News",},{id: "news-invited-talk-at-nyu-steinhardt-s-priism-applied-statistics-seminar",
+          title: 'Invited talk at NYU Steinhardt’s PRIISM applied statistics seminar.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
