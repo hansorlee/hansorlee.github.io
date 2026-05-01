@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I'm a Ph.D. candidate in Education Data Science at Stanford University, advised by Professor [Ben Domingue](https://ed.stanford.edu/faculty/bdomingu). I study the gap between what algorithmic systems are designed to do and how they actually operate in sociotechnical contexts.
+Hello! I'm a Ph.D. candidate in Education Data Science at Stanford University, advised by Professor [Ben Domingue](https://ed.stanford.edu/faculty/bdomingu). I study the gap between what algorithmic systems are designed to do and how they actually operate in practice.
 
 My work spans human-AI decision-making, algorithmic fairness, and measurement. I approach these questions from two sides: (1) the deployment side, examining how algorithmic tools reshape human decision-making in practice; and (2) the measurement side, asking whether the models underlying these systems rest on valid empirical foundations. I use methods spanning machine learning, causal inference, and psychometrics.
 
