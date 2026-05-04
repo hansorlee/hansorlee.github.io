@@ -1,19 +1,21 @@
 <div class="news">
   {% if site.news != blank %}
     {% assign news_size = site.news | size %}
-    <div
-      class="table-responsive"
-      {% if include.limit and page.announcements.scrollable and news_size > 3 %}
-        style="max-height: 60vw"
+    {% assign news = site.news | reverse %}
+    {% assign news_limit = news_size %}
+    {% if include.limit and page.announcements %}
+      {% if page.announcements.scrollable %}
+        {% assign news_limit = news_size %}
+      {% elsif page.announcements.limit %}
+        {% assign news_limit = page.announcements.limit | plus: 0 %}
       {% endif %}
-    >
+    {% endif %}
+    {% assign use_news_scroll = false %}
+    {% if include.limit and page.announcements and page.announcements.scrollable and news_size > 3 %}
+      {% assign use_news_scroll = true %}
+    {% endif %}
+    <div class="table-responsive{% if use_news_scroll %} news-about-scroll{% endif %}">
       <table class="table table-sm table-borderless">
-        {% assign news = site.news | reverse %}
-        {% if include.limit and page.announcements.limit %}
-          {% assign news_limit = page.announcements.limit %}
-        {% else %}
-          {% assign news_limit = news_size %}
-        {% endif %}
         {% for item in news limit: news_limit %}
           <tr>
             <th scope="row" style="width: 20%">{{ item.date | date: '%b %d, %Y' }}</th>
