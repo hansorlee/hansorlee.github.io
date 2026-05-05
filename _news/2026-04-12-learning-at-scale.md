@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Two papers accepted at [ACM Learning @ Scale 2026](https://learningatscale.acm.org/).
+Two papers accepted at [ACM Learning @ Scale 2026](https://learningatscale.acm.org/) ([preprint](https://arxiv.org/abs/2605.01690)).

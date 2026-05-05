@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Five abstracts accepted at [IMPS 2026](https://www.psychometricsociety.org/imps-2026).
+Five abstracts accepted at [IMPS 2026](https://www.psychometricsociety.org/imps-2026). 

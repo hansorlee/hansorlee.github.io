@@ -28,7 +28,7 @@ Hello! I'm a Ph.D. candidate in Education Data Science at Stanford University, a
 
 My work spans human-AI decision-making, algorithmic fairness, and measurement. I approach these questions from two sides: (1) the deployment side, examining how algorithmic tools reshape human decision-making in practice; and (2) the measurement side, asking whether the models underlying these systems rest on valid empirical foundations. I use methods spanning machine learning, causal inference, and psychometrics.
 
-Before Stanford, I studied Computer Science at Cornell University, advised by Professors [Rene Kizilcec](https://rene.kizilcec.com/) and [Thorsten Joachims](https://www.cs.cornell.edu/people/tj/). I am a recipient of the [Stanford Graduate Fellowship](https://vpge.stanford.edu/fellowships-funding/sgf) and co-founder of [Learnest](https://www.learnest.org/), a nonprofit to promote responsible AI in education.
+Before Stanford, I studied Computer Science at Cornell University, advised by Professors [Rene Kizilcec](https://rene.kizilcec.com/) and [Thorsten Joachims](https://www.cs.cornell.edu/people/tj/). I am a recipient of the [Stanford Graduate Fellowship](https://vpge.stanford.edu/fellowships-funding/sgf) and co-founder of [Learnest](https://www.linkedin.com/company/learnestorg/), a nonprofit to promote responsible AI in education.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
