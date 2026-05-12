@@ -5,4 +5,6 @@ inline: true
 related_posts: false
 ---
 
-Paper accepted at [ICML 2026](https://icml.cc/).
+Paper accepted at [ICML 2026](https://icml.cc/):
+
+- *Noise Tectonics: Measuring the Stability of AI Benchmark Ecosystems*
