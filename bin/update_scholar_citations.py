@@ -5,6 +5,7 @@ import sys
 import yaml
 from datetime import datetime
 from scholarly import scholarly
+from sync_google_scholar_bibliography import build_generated_bibliography
 
 
 def load_scholar_user_id() -> str:
@@ -127,6 +128,7 @@ def get_scholar_citations() -> None:
 if __name__ == "__main__":
     try:
         get_scholar_citations()
+        build_generated_bibliography(dry_run=False)
     except Exception as e:
         print(f"Unexpected error: {e}")
         sys.exit(1)
