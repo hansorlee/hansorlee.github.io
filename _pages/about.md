@@ -24,9 +24,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I'm a Ph.D. candidate in Education Data Science at Stanford University, advised by Professor [Ben Domingue](https://ed.stanford.edu/faculty/bdomingu). I study the gap between what algorithmic systems are designed to do and how they actually operate in practice.
+Hello! I'm a Ph.D. candidate in Education Data Science at Stanford University, advised by Professor [Ben Domingue](https://ed.stanford.edu/faculty/bdomingu). I study how data and algorithms are used to evaluate people, and whether those systems are valid and fair. 
 
-My work spans human-AI decision-making, algorithmic fairness, and measurement. I approach these questions from two sides: (1) the deployment side, examining how algorithmic tools reshape human decision-making in practice; and (2) the measurement side, asking whether the models underlying these systems rest on valid empirical foundations. I use methods spanning machine learning, causal inference, and psychometrics.
+I approach these questions from two sides: (1) the deployment side, examining how algorithmic tools reshape human decision-making in practice; and (2) the measurement side, asking whether the models underlying these systems rest on valid empirical foundations. My work spans learning analytics, human-AI decision-making, and algorithmic fairness, grounded in measurement and causal inference.
 
 Before Stanford, I studied Computer Science at Cornell University, advised by Professors [Rene Kizilcec](https://rene.kizilcec.com/) and [Thorsten Joachims](https://www.cs.cornell.edu/people/tj/). I am a recipient of the [Stanford Graduate Fellowship](https://vpge.stanford.edu/fellowships-funding/sgf) and co-founder of [Learnest](https://www.linkedin.com/company/learnestorg/), a nonprofit to promote responsible AI in education.
 

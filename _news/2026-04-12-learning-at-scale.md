@@ -7,5 +7,5 @@ related_posts: false
 
 Two papers accepted at [ACM Learning @ Scale 2026](https://learningatscale.acm.org/):
 
-- *The "Astonishing Regularity" Revisited: Sensitivity of Learning-Rate Estimates to Practice-Sequence Length* ([preprint](https://arxiv.org/abs/2605.01690))
+- *Revisiting the Regularity of Student Learning Rate: Sensitivity to Which Observations Are Included* ([preprint](https://arxiv.org/abs/2605.01690))
 - *A Large-Scale Observational Study on Obtaining Lightweight, Randomized Weekly Student Feedback* ([preprint](https://arxiv.org/abs/2605.02281))

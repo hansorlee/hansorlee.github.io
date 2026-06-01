@@ -10,7 +10,7 @@
       {% else %}
         {% assign redirect = page.redirect | relative_url %}
       {% endif %}
-      <meta http-equiv="refresh" content="3; url={{ redirect }}">
+      <meta http-equiv="refresh" content="{% if page.redirect_delay != nil %}{{ page.redirect_delay }}{% else %}3{% endif %}; url={{ redirect }}">
     {% endif %}
     {% include head.liquid %}
   </head>
