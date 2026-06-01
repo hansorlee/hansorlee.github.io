@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
+  },{id: "nav-cv",
+          title: "CV",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
+          },
+        },{id: "nav-publications",
           title: "publications",
           description: "",
           section: "Navigation",
@@ -407,8 +414,8 @@ ninja.data = [{
           section: "News",},{id: "news-five-abstracts-accepted-at-imps-2026",
           title: 'Five abstracts accepted at IMPS 2026.',
           description: "",
-          section: "News",},{id: "news-two-papers-accepted-at-acm-learning-scale-2026-the-astonishing-regularity-revisited-sensitivity-of-learning-rate-estimates-to-practice-sequence-length-preprint-a-large-scale-observational-study-on-obtaining-lightweight-randomized-weekly-student-feedback-preprint",
-          title: 'Two papers accepted at ACM Learning @ Scale 2026: The “Astonishing Regularity” Revisited:...',
+          section: "News",},{id: "news-two-papers-accepted-at-acm-learning-scale-2026-revisiting-the-regularity-of-student-learning-rate-sensitivity-to-which-observations-are-included-preprint-a-large-scale-observational-study-on-obtaining-lightweight-randomized-weekly-student-feedback-preprint",
+          title: 'Two papers accepted at ACM Learning @ Scale 2026: Revisiting the Regularity of...',
           description: "",
           section: "News",},{id: "news-paper-accepted-at-acm-facct-2026-does-algorithmic-uncertainty-sway-human-experts-evidence-from-a-field-experiment-in-selective-college-admissions-preprint",
           title: 'Paper accepted at ACM FAccT 2026: Does Algorithmic Uncertainty Sway Human Experts? Evidence...',
@@ -481,6 +488,13 @@ ninja.data = [{
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/introduction-to-machine-learning/";
             },},{
+        id: 'social-cv',
+        title: 'CV',
+        section: 'Socials',
+        handler: () => {
+          window.open("/assets/pdf/Hansol_Lee_CV.docx.pdf", "_blank");
+        },
+      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
