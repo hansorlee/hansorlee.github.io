@@ -1,14 +1,14 @@
 metadata:
-  last_updated: '2026-07-08'
+  last_updated: '2026-07-22'
 papers:
-  vmcet8AAAAAJ:0EnyYjriUFMC:
-    citations: 0
-    title: 'Revisiting the Regularity of Student Learning Rate: Sensitivity to Which Observations Are Included'
-    year: '2026'
   vmcet8AAAAAJ:2osOgNQ5qMEC:
     citations: 12
     title: 'Look at me when I talk to you: a video dataset to enable voice assistants to recognize errors'
     year: '2021'
+  vmcet8AAAAAJ:5nxA0vEk-isC:
+    citations: 0
+    title: 'Revisiting the Regularity of Student Learning Rate: Sensitivity to Which Observations Are Included'
+    year: '2026'
   vmcet8AAAAAJ:9yKSN-GCB0IC:
     citations: 87
     title: My bad! repairing intelligent voice assistant errors improves interaction
@@ -18,7 +18,7 @@ papers:
     title: 'AI Cartography: Mapping the Latent Landscape of AI Benchmark Ecosystems'
     year: '2026'
   vmcet8AAAAAJ:UeHWp8X0CEIC:
-    citations: 20
+    citations: 21
     title: Is a seat at the table enough? Engaging teachers and students in dataset specification for ml in education
     year: '2024'
   vmcet8AAAAAJ:UebtZRa9Y70C:
@@ -34,11 +34,11 @@ papers:
     title: 'The Item Response Warehouse: What It Is, How to Use It, and Targets for Potential Improvements'
     year: '2026'
   vmcet8AAAAAJ:Y0pCki6q_DkC:
-    citations: 0
+    citations: 1
     title: 'Dynamic Bayesian Item Response Model with Decomposition (D-BIRD): Modeling Cohort and Individual Learning Over Time'
     year: '2025'
   vmcet8AAAAAJ:d1gkVwhDpl0C:
-    citations: 57
+    citations: 59
     title: Evaluation of fairness trade-offs in predicting student success
     year: '2020'
   vmcet8AAAAAJ:hqOjcs7Dif8C:
@@ -50,11 +50,11 @@ papers:
     title: Evaluating a Learned Admission-Prediction Model as a Replacement for Standardized Tests in College Admissions
     year: '2023'
   vmcet8AAAAAJ:u-x6o8ySG0sC:
-    citations: 495
+    citations: 510
     title: Algorithmic Fairness in Education
     year: '2022'
   vmcet8AAAAAJ:u5HHmVD_uO8C:
-    citations: 153
+    citations: 157
     title: Should college dropout prediction models include protected attributes?
     year: '2021'
   vmcet8AAAAAJ:zYLM7Y9cAGgC:
