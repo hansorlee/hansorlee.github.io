@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-29'
+  last_updated: '2026-08-05'
 papers:
   vmcet8AAAAAJ:2osOgNQ5qMEC:
     citations: 12
@@ -10,7 +10,7 @@ papers:
     title: 'Revisiting the Regularity of Student Learning Rate: Sensitivity to Which Observations Are Included'
     year: '2026'
   vmcet8AAAAAJ:9yKSN-GCB0IC:
-    citations: 88
+    citations: 86
     title: My bad! repairing intelligent voice assistant errors improves interaction
     year: '2021'
   vmcet8AAAAAJ:Se3iqnhoufwC:
@@ -18,15 +18,15 @@ papers:
     title: 'AI Cartography: Mapping the Latent Landscape of AI Benchmark Ecosystems'
     year: '2026'
   vmcet8AAAAAJ:UeHWp8X0CEIC:
-    citations: 21
-    title: Is a seat at the table enough? Engaging teachers and students in dataset specification for ml in education
+    citations: 22
+    title: Is a seat at the table enough? Engaging teachers and students in dataset specification for ML in education
     year: '2024'
   vmcet8AAAAAJ:UebtZRa9Y70C:
     citations: 0
     title: Does Algorithmic Uncertainty Sway Human Experts? Evidence from a Field Experiment in Selective College Admissions
     year: '2026'
   vmcet8AAAAAJ:W7OEmFMy1HYC:
-    citations: 22
+    citations: 25
     title: 'An introduction to the Item Response Warehouse (IRW): A resource for enhancing data usage in psychometrics'
     year: '2025'
   vmcet8AAAAAJ:WF5omc3nYNoC:
@@ -35,7 +35,7 @@ papers:
     year: '2026'
   vmcet8AAAAAJ:Y0pCki6q_DkC:
     citations: 1
-    title: 'Dynamic Bayesian Item Response Model with Decomposition (D-BIRD): Modeling Cohort and Individual Learning Over Time'
+    title: 'Dynamic bayesian item response model with decomposition (D-BIRD): Modeling cohort and individual learning over time'
     year: '2025'
   vmcet8AAAAAJ:d1gkVwhDpl0C:
     citations: 59
@@ -46,11 +46,11 @@ papers:
     title: 'A Large-Scale Observational Study on Obtaining Lightweight, Randomized Weekly Student Feedback: Associations with End-of-Term Course Evaluations'
     year: '2026'
   vmcet8AAAAAJ:qjMakFHDy7sC:
-    citations: 24
+    citations: 25
     title: Evaluating a Learned Admission-Prediction Model as a Replacement for Standardized Tests in College Admissions
     year: '2023'
   vmcet8AAAAAJ:u-x6o8ySG0sC:
-    citations: 512
+    citations: 514
     title: Algorithmic Fairness in Education
     year: '2022'
   vmcet8AAAAAJ:u5HHmVD_uO8C:
