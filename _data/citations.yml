@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-07'
+  last_updated: '2026-08-10'
 papers:
   vmcet8AAAAAJ:2osOgNQ5qMEC:
     citations: 12
@@ -10,11 +10,11 @@ papers:
     title: 'Revisiting the Regularity of Student Learning Rate: Sensitivity to Which Observations Are Included'
     year: '2026'
   vmcet8AAAAAJ:9yKSN-GCB0IC:
-    citations: 86
+    citations: 88
     title: My bad! repairing intelligent voice assistant errors improves interaction
     year: '2021'
   vmcet8AAAAAJ:Se3iqnhoufwC:
-    citations: 0
+    citations: 1
     title: 'AI Cartography: Mapping the Latent Landscape of AI Benchmark Ecosystems'
     year: '2026'
   vmcet8AAAAAJ:UeHWp8X0CEIC:
@@ -38,7 +38,7 @@ papers:
     title: 'Dynamic bayesian item response model with decomposition (D-BIRD): Modeling cohort and individual learning over time'
     year: '2025'
   vmcet8AAAAAJ:d1gkVwhDpl0C:
-    citations: 59
+    citations: 60
     title: Evaluation of fairness trade-offs in predicting student success
     year: '2020'
   vmcet8AAAAAJ:hqOjcs7Dif8C:
@@ -50,7 +50,7 @@ papers:
     title: Evaluating a Learned Admission-Prediction Model as a Replacement for Standardized Tests in College Admissions
     year: '2023'
   vmcet8AAAAAJ:u-x6o8ySG0sC:
-    citations: 514
+    citations: 518
     title: Algorithmic Fairness in Education
     year: '2022'
   vmcet8AAAAAJ:u5HHmVD_uO8C:
