@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-14'
+  last_updated: '2026-08-21'
 papers:
   vmcet8AAAAAJ:2osOgNQ5qMEC:
     citations: 12
@@ -38,7 +38,7 @@ papers:
     title: 'Dynamic bayesian item response model with decomposition (D-BIRD): Modeling cohort and individual learning over time'
     year: '2025'
   vmcet8AAAAAJ:d1gkVwhDpl0C:
-    citations: 60
+    citations: 61
     title: Evaluation of fairness trade-offs in predicting student success
     year: '2020'
   vmcet8AAAAAJ:hqOjcs7Dif8C:
@@ -50,11 +50,11 @@ papers:
     title: Evaluating a Learned Admission-Prediction Model as a Replacement for Standardized Tests in College Admissions
     year: '2023'
   vmcet8AAAAAJ:u-x6o8ySG0sC:
-    citations: 522
+    citations: 530
     title: Algorithmic Fairness in Education
     year: '2022'
   vmcet8AAAAAJ:u5HHmVD_uO8C:
-    citations: 158
+    citations: 160
     title: Should college dropout prediction models include protected attributes?
     year: '2021'
   vmcet8AAAAAJ:zYLM7Y9cAGgC:
